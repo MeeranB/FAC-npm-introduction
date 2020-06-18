@@ -10,6 +10,8 @@ npm also has a command line tool that lets us easily install, manage and run pro
 
 `npm init` is the first command you need to know to create a Node project. It will 'initialise' your project by adding a file called `package.json` in the root directory.
 
+>package.json contains metadata about project
+
 npm will ask you some questions in your terminal after you run the command — your answers will be pre-filled into the `package.json`.
 
 Don't worry, you can change your answers later by editing `package.json` manually.
